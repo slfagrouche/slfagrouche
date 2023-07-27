@@ -51,8 +51,11 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/saidlfagrouche/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Said%20Lfagrouche-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:saidlfagrouche@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p>
+  <a href="https://www.linkedin.com/in/saidlfagrouche/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Said%20Lfagrouche-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:saidlfagrouche@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
 </p>
