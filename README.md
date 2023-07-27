@@ -14,7 +14,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -53,7 +52,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/saidlfagrouche/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/saidlfagrouche/"><img alt="LinkedIn" src="https://img.shields.io/badge/Said%20Lfagrouche-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:saidlfagrouche@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
