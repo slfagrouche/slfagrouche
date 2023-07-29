@@ -1,6 +1,7 @@
 <h2> Hey there! I'm Said</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Profile Hits:   [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat-square)](http://hits.dwyl.com/slfagrouche/slfagrouche)
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
