@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Said ![](https://komarev.com/ghpvc/?username=slfagrouche)</h2>
+<h2> Hey there! I'm Said </h2>
 
-
+![](https://komarev.com/ghpvc/?username=slfagrouche)
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
