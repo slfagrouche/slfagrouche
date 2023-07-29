@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat&show=unique)](http://hits.dwyl.com/slfagrouche/slfagrouche)
-[![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat-square&show=unique)](http://hits.dwyl.com/slfagrouche/slfagrouche)
+  [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat)](http://hits.dwyl.com/slfagrouche/slfagrouche)
 
 
 
