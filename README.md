@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Said</h2>
 
 Profile Hits:       [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat-square)](http://hits.dwyl.com/slfagrouche/slfagrouche)
-
+![](https://komarev.com/ghpvc/?username=slfagrouche)
 
 
 
