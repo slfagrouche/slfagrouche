@@ -2,7 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Profile Hits:   [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat-square)](http://hits.dwyl.com/slfagrouche/slfagrouche)
+Profile Hits:     [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat)](http://hits.dwyl.com/slfagrouche/slfagrouche)
+
 
 
 
