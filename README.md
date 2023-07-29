@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Said</h2>
 
-![](https://komarev.com/ghpvc/?username=slfagrouche&color=d43080&style=for-the-badge&label=PROFILE+HITS)
+![](https://komarev.com/ghpvc/?username=slfagrouche&color=blue&style=for-the-badge&label=PROFILE+HITS)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
