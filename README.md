@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Said</h2>
 
-![](https://komarev.com/ghpvc/?username=slfagrouche)
+![](https://komarev.com/ghpvc/?username=slfagrouche&color=red&style=for-the-badge&label=PROFILE+HITS)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -45,11 +45,12 @@
 <br/>
 
 <a href="https://github.com/slfagrouche">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slfagrouche&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfagrouche&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slfagrouche&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfagrouche&theme=radical&layout=compact" />
 </a>
 
 <br/>
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -59,6 +60,6 @@
   </a>
   &nbsp;
   <a href="mailto:saidlfagrouche@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-blue?style=flat-square&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-red?style=flat-square&logo=gmail">
   </a>
 </p>
