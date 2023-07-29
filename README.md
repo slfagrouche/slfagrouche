@@ -1,18 +1,16 @@
 <h2> Hey there! I'm Said</h2>
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 ![](https://komarev.com/ghpvc/?username=slfagrouche)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
 - 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
-
 - 💼 &nbsp; Working as a Software Engineer Intern at XRSI – XR Safety Initiative.
-  
 - 🌱 &nbsp; Learning more about Web Development, Data Science and Machine Learning.
-
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
