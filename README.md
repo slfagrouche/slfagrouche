@@ -1,9 +1,7 @@
 <h2> Hey there! I'm Said</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-[![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat&show=unique)](http://hits.dwyl.com/slfagrouche/slfagrouche)
-  [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat)](http://hits.dwyl.com/slfagrouche/slfagrouche)
+Profile Hits :[![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat)](http://hits.dwyl.com/slfagrouche/slfagrouche)
 
 
 
