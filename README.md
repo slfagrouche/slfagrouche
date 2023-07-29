@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-[![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat)](http://hits.dwyl.com/slfagrouche/slfagrouche)
+Pril[![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat)](http://hits.dwyl.com/slfagrouche/slfagrouche)
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
