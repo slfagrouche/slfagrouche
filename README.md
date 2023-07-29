@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Said <img src="https://komarev.com/ghpvc/?username=slfagrouche" alt="Profile Views"></h2>
+<h2> Hey there! I'm Said ![](https://komarev.com/ghpvc/?username=slfagrouche)</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
