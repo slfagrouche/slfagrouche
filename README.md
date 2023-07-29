@@ -2,6 +2,7 @@
 
 Profile Hits:       [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat-square)](http://hits.dwyl.com/slfagrouche/slfagrouche)
 
+![](https://komarev.com/ghpvc/?slfagrouche=slfagrouche)
 
 
 
