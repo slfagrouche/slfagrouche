@@ -1,5 +1,47 @@
 <h2> Hey there! I'm Said</h2>
 
+<!-- Add the necessary CSS styles for the tooltip -->
+<style>
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
+
+<!-- Add the Profile Hits section -->
+<div class="tooltip">
+  <a href="http://hits.dwyl.com/slfagrouche/slfagrouche" target="_blank" rel="noopener noreferrer">
+    <button style="background-color: #4CAF50; color: white; border: none; padding: 10px; border-radius: 6px;">
+      <span style="font-size: 18px; margin-right: 5px;">👁️‍🗨️</span>
+      Profile Hits
+    </button>
+  </a>
+  <span class="tooltiptext">Number of visits to the profile</span>
+</div>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 Profile Hits:       [![HitCount](https://hits.dwyl.com/slfagrouche/slfagrouche.svg?style=flat-square)](http://hits.dwyl.com/slfagrouche/slfagrouche)
