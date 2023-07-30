@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Said</h2>
 
-![](https://komarev.com/ghpvc/?username=slfagrouche&color=blueviolet&style=for-the-badge&label=PROFILE+HITS)
+![](https://komarev.com/ghpvc/?username=slfagrouche&color=d43080&style=for-the-badge&label=PROFILE+HITS)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -61,6 +61,6 @@
   </a>
   &nbsp;
   <a href="mailto:saidlfagrouche@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-red?style=flat-square&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
