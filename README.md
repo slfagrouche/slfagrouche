@@ -61,6 +61,6 @@
   </a>
   &nbsp;
   <a href="mailto:saidlfagrouche@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-blue?style=flat-square&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-red?style=flat-square&logo=gmail">
   </a>
 </p>
