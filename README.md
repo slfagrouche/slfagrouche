@@ -54,6 +54,7 @@
 <a href="https://github.com/slfagrouche">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slfagrouche&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfagrouche&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=slfagrouche&theme=radical&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
