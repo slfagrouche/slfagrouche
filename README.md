@@ -1,7 +1,7 @@
+
 <h2> Hey there! I'm Said</h2>
 
 ![](https://komarev.com/ghpvc/?username=slfagrouche&color=d43080&style=for-the-badge&label=PROFILE+HITS)
-
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -16,43 +16,45 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++&logoColor=007396)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus&logoColor=00599C)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+- 🌐 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+  ![Gradio](https://img.shields.io/badge/-Gradio-333333?style=flat&logo=gradio)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 - ☁️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=api)
+  ![REST API](https://img.shields.io/badge/-REST_API-333333?style=flat&logo=rest)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=google-cloud)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Spacy](https://img.shields.io/badge/-Spacy-333333?style=flat&logo=spacy)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+  ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain)
+  ![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=transformers)
+  ![Kubeflow](https://img.shields.io/badge/-Kubeflow-333333?style=flat&logo=kubeflow)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Weaviate](https://img.shields.io/badge/-Weaviate-333333?style=flat&logo=weaviate)
+  ![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat&logo=faiss)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Affinity Designer](https://img.shields.io/badge/-Affinity%20Designer-333333?style=flat&logo=affinity-designer)
+  ![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-333333?style=flat&logo=affinity-designer)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-  ![iMovie](https://img.shields.io/badge/-iMovie-333333?style=flat&logo=imovie)
-
-<br/>
 
 <a href="https://github.com/slfagrouche">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slfagrouche&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfagrouche&theme=radical&layout=compact" />
 </a>
-
-<br/>
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -64,4 +66,12 @@
   <a href="mailto:saidlfagrouche@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-saidlfagrouche@gmail.com-red?style=flat-square&logo=gmail">
   </a>
+  &nbsp;
+  <a href="https://www.saidlfagrouche.com/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-saidlfagrouche.com-green?style=flat-square&logo=google-chrome">
+  </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" alt="Coding GIF">
+
+> "Keep calm and `git commit` the good times! - @slfagrouche"
