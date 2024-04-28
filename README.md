@@ -7,9 +7,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
-- 💼 &nbsp; Working as a Software Engineer Intern at XRSI – XR Safety Initiative.
-- 🌱 &nbsp; Learning more about Web Development, Data Science and Machine Learning.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Data Science Fellow at CUNY TECH PREP.
+- 🌱 &nbsp; Learning more about AI, Data Science, and Machine Learning.
+- ✍️ &nbsp; Engaging in creative projects and digital design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
