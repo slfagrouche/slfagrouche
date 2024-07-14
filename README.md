@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
-- 💼 &nbsp; Data Science Fellow at CUNY TECH PREP.
+- 💼 &nbsp; Software Engineer Fellow at MLT.
 - 🌱 &nbsp; Learning more about AI, Data Science, and Machine Learning.
 - ✍️ &nbsp; Engaging in creative projects and digital design as hobbies/side hustles.
 
