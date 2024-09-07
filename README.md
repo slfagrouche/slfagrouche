@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at CUNY Brooklyn College.
+- 🎓 &nbsp; Studying Bachelor of Computer Science at CUNY Brooklyn College and Minor in Data Science.
 - 💼 &nbsp; Software Engineer Fellow at MLT.
 - 🌱 &nbsp; Learning more about AI, Data Science, and Machine Learning.
 - ✍️ &nbsp; Engaging in creative projects and digital design as hobbies/side hustles.
