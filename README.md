@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Bachelor of Computer Science at CUNY Brooklyn College and Minor in Data Science.
-- 💼 &nbsp; Software Engineer Fellow at MLT.
+- 💼 &nbsp; Machine Learning Engineer Fellow at AI4ALL.
 - 🌱 &nbsp; Learning more about AI, Data Science, and Machine Learning.
 - ✍️ &nbsp; Engaging in creative projects and digital design as hobbies/side hustles.
 
