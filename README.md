@@ -6,9 +6,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Bachelor of Computer Science at CUNY Brooklyn College and Minor in Data Science.
-- 💼 &nbsp; Machine Learning Engineer Fellow at AI4ALL.
-- 🌱 &nbsp; Learning more about AI, Data Science, and Machine Learning.
+- 🎓 &nbsp; Bachelor of Computer Science at CUNY Brooklyn College and Minor in Data Science.
+- 💼 &nbsp; Backend Engineer at [Computer Software Solutions LLC](https://www.linkedin.com/company/computer-software-solutions-llc/posts/?feedView=all).
+- 🌱 &nbsp; Learning more about Cloud Technolgies, Gen AI and Scaling Systems.
 - ✍️ &nbsp; Engaging in creative projects and digital design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
