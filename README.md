@@ -1,35 +1,67 @@
 ## Hey, I'm Said
 
-AI Engineer building intelligent systems — from agentic workflows to production ML pipelines.
+AI Engineer building intelligent systems — from multi-agent orchestration to distributed ML pipelines at scale.
+
+Previously shipped production systems at **Salesforce** (Data Cloud) and **Esri** (ArcGIS AI). Focused on LLM infrastructure, agentic workflows, and backend systems that handle millions of requests.
 
 ### What I'm Working On
 
-- Designing and shipping AI-powered products end to end
-- Multi-agent orchestration, RAG systems, and real-time AI applications
-- Scaling backend infrastructure on AWS
+- Building AI-powered products end to end — agents, RAG, real-time inference
+- Distributed systems and microservices architecture on AWS, Azure, and GCP
+- Multi-agent orchestration with LangGraph and CrewAI
 
 ### Featured Projects
 
-- **[LayoverAI](https://github.com/slfagrouche/LayoverAI-Backend)** — AI-powered travel planning with CrewAI multi-agent orchestration and ArcGIS routing
+- **[LayoverAI](https://github.com/slfagrouche/LayoverAI-Backend)** — AI travel planning with CrewAI multi-agent orchestration and ArcGIS routing
 - **[TheraGuide](https://github.com/slfagrouche/TheraGuide-AI-Crisis-detection)** — Real-time AI copilot for mental health professionals with crisis detection
-- **[CampusMind](https://github.com/slfagrouche/CampusMind-Frontend)** — Agentic AI assistant serving students across CUNY/SUNY university systems
-- **[AI Video Pipeline](https://github.com/slfagrouche/n8n-AI-Animal-VideoGen)** — Automated video generation workflow using DeepSeek, Runway, and ElevenLabs
-- **[TUTOR](https://github.com/slfagrouche/TUTOR)** — RAG-powered educational assistant with audio transcription and PDF extraction
+- **[CampusMind](https://github.com/slfagrouche/CampusMind-Frontend)** — Agentic AI assistant serving 50K+ monthly queries across CUNY/SUNY systems
+- **[AI Video Pipeline](https://github.com/slfagrouche/n8n-AI-Animal-VideoGen)** — Automated video generation using DeepSeek, Runway, and ElevenLabs
+- **[TUTOR](https://github.com/slfagrouche/TUTOR)** — RAG-powered assistant that cut LLM hallucinations 98% with FAISS over 1K docs
 
 ### Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)
+![C++](https://img.shields.io/badge/-C++-0D1117?style=flat&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=postgresql)
+
+**AI / ML**
+
 ![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat&logo=langchain)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=flat&logo=fastapi)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)
-![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=flat&logo=supabase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)
+![LangGraph](https://img.shields.io/badge/-LangGraph-0D1117?style=flat&logo=langchain)
+![CrewAI](https://img.shields.io/badge/-CrewAI-0D1117?style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)
+![Hugging%20Face](https://img.shields.io/badge/-Hugging%20Face-0D1117?style=flat&logo=huggingface)
+![Milvus](https://img.shields.io/badge/-Milvus-0D1117?style=flat)
+![FAISS](https://img.shields.io/badge/-FAISS-0D1117?style=flat)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-0D1117?style=flat&logo=weaviate)
+
+**Backend & Frameworks**
+
+![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=flat&logo=springboot)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=flat&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/-GCP-0D1117?style=flat&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=flat&logo=jenkins)
+
+**Data**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=flat&logo=supabase)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-0D1117?style=flat&logo=amazondynamodb)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=slfagrouche&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
