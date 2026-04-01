@@ -1,6 +1,6 @@
 ## Hey, I'm Said
 
-Founder & AI Engineer — building and shipping AI products, open-source tools, and production systems at scale.
+Founder & AI Engineer - building and shipping AI products, open-source tools, and production systems at scale.
 
 Previously built production AI at **Salesforce** (Data Cloud) and **Esri** (ArcGIS). Now focused on founding and shipping my own things.
 
@@ -9,14 +9,6 @@ Previously built production AI at **Salesforce** (Data Cloud) and **Esri** (ArcG
 - Shipping AI-powered products and open-source tools
 - Multi-agent orchestration, RAG systems, and real-time inference
 - Distributed backend systems on AWS, Azure, and GCP
-
-### Featured Projects
-
-- **[LayoverAI](https://github.com/slfagrouche/LayoverAI-Backend)** — AI travel planning with CrewAI multi-agent orchestration and ArcGIS routing
-- **[TheraGuide](https://github.com/slfagrouche/TheraGuide-AI-Crisis-detection)** — Real-time AI copilot for mental health professionals with crisis detection
-- **[CampusMind](https://github.com/slfagrouche/CampusMind-Frontend)** — Agentic AI assistant serving 50K+ monthly queries across CUNY/SUNY systems
-- **[AI Video Pipeline](https://github.com/slfagrouche/n8n-AI-Animal-VideoGen)** — Automated video generation using DeepSeek, Runway, and ElevenLabs
-- **[TUTOR](https://github.com/slfagrouche/TUTOR)** — RAG-powered assistant that cut LLM hallucinations 98% with FAISS over 1K docs
 
 ### Tech Stack
 
@@ -34,4 +26,4 @@ Previously built production AI at **Salesforce** (Data Cloud) and **Esri** (ArcG
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="600" alt="Coding GIF">
 
-> "Keep calm and `git commit` the good times!" — @slfagrouche
+> "Keep calm and `git commit` the good times!" - @slfagrouche
