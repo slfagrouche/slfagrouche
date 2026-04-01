@@ -31,11 +31,6 @@ AI Engineer building intelligent systems — from agentic workflows to productio
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)
 
-<a href="https://github.com/slfagrouche">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=slfagrouche&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfagrouche&theme=github_dark&layout=compact&hide_border=true" />
-</a>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=slfagrouche&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ---
@@ -45,3 +40,7 @@ AI Engineer building intelligent systems — from agentic workflows to productio
   <a href="mailto:saidlfagrouche@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>&nbsp;
   <a href="https://www.saidlfagrouche.com/"><img alt="Website" src="https://img.shields.io/badge/-saidlfagrouche.com-000?style=flat-square&logo=google-chrome&logoColor=white"></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="600" alt="Coding GIF">
+
+> "Keep calm and `git commit` the good times!" — @slfagrouche
