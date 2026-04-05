@@ -1,11 +1,9 @@
 ## Hey, I'm Said
 
 Founder & AI Engineer - building and shipping AI products, open-source tools, and production systems at scale.
-
 Previously built production AI at **Salesforce** (Data Cloud) and **Esri** (ArcGIS). Now focused on founding and shipping my own things.
 
 ### What I'm Working On
-
 - Shipping AI-powered products and open-source tools
 - Multi-agent orchestration, RAG systems, and real-time inference
 - Distributed backend systems on AWS, Azure, and GCP
